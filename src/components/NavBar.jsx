@@ -1,6 +1,6 @@
 import { Image, Box, Heading } from "@chakra-ui/react";
 import { useNavigate } from "react-router-dom";
-import {ImageShop} from "../assets/Images/shop.png";
+import ImageShop from "../assets/Images/shop.png";
 export default function NavBar() {
   const navigate = useNavigate();
   const redirect = () => {
