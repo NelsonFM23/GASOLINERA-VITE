@@ -2,12 +2,12 @@ import "./App.css";
 import { Routes, Route } from "react-router-dom";
 import { Box, Container } from "@chakra-ui/react";
 import NavBar from "./components/NavBar";
-import Home from "./Pages/Home";
-import Surtidor from "./Pages/Surtidor";
-import Product from "./Pages/Product";
-import MethodPayment from "./Pages/MethodPayment";
-import Quantity from "./Pages/Quantity";
-import Resume from "./Pages/Resume";
+import Home from "./pages/Home";
+import Surtidor from "./pages/Surtidor";
+import Product from "./pages/Product";
+import MethodPayment from "./pages/MethodPayment";
+import Quantity from "./pages/Quantity";
+import Resume from "./pages/Resume";
 
 function App() {
   return (
