@@ -9,12 +9,12 @@ import {
 } from "@chakra-ui/react";
 import { /*Navigate,*/ useNavigate } from "react-router-dom";
 import { ArrowBackIcon } from "@chakra-ui/icons";
-import ImageConfeti from "../Assets/Images/confeti.png";
-import ImageCar from "../Assets/Images/car.png";
-import ImageGasoil from "../Assets/Images/gasoil.png";
-import ImageMoney from "../Assets/Images/money-pig.png";
-import ImageDrop from "../Assets/Images/drop.png";
-import ImageCapital from "../Assets/Images/capital.png";
+import ImageConfeti from "../assets/Images/confeti.png";
+import ImageCar from "../assets/Images/car.png";
+import ImageGasoil from "../assets/Images/gasoil.png";
+import ImageMoney from "../assets/Images/money-pig.png";
+import ImageDrop from "../assets/Images/drop.png";
+import ImageCapital from "../assets/Images/capital.png";
 
 export default function Resume() {
   const navigate = useNavigate();

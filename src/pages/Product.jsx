@@ -8,10 +8,10 @@ import {
   Stack,
 } from "@chakra-ui/react";
 import { useNavigate } from "react-router-dom";
-import ImageGasoil from "../Assets/Images/gasoil.png";
-import ImageGasoilA from "../Assets/Images/diesel.png";
-import ImageAdBlue from "../Assets/Images/adblue.png";
-import ImageDieselPlus from "../Assets/Images/diesel-plus.png";
+import ImageGasoil from "../assets/Images/gasoil.png";
+import ImageGasoilA from "../assets/Images/diesel.png";
+import ImageAdBlue from "../assets/Images/adblue.png";
+import ImageDieselPlus from "../assets/Images/diesel-plus.png";
 import { ArrowBackIcon } from "@chakra-ui/icons";
 export default function Product() {
   const navigate = useNavigate();

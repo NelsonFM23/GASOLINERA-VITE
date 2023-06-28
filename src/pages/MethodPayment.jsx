@@ -7,8 +7,8 @@ import {
   Image,
   Stack,
 } from "@chakra-ui/react";
-import ImageEfectivo from "../Assets/Images/money.png";
-import ImageCreditCard from "../Assets/Images/credit-card.png";
+import ImageEfectivo from "../assets/Images/money.png";
+import ImageCreditCard from "../assets/Images/credit-card.png";
 import { useNavigate } from "react-router-dom";
 import { ArrowBackIcon } from "@chakra-ui/icons";
 

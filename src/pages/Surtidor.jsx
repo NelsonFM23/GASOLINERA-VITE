@@ -1,5 +1,5 @@
 import { Grid, GridItem, Heading, Image } from "@chakra-ui/react";
-import ImageCar from "../Assets/Images/car.png";
+import ImageCar from "../assets/Images/car.png";
 import { useNavigate } from "react-router-dom";
 
 export default function Surtidor() {
