@@ -1,6 +1,6 @@
 import { Image, Box, Stack, Heading } from "@chakra-ui/react";
-import ImageClick from "../Assets/Images/cursor.png";
-import ImageClient from "../Assets/Images/button.png";
+import ImageClick from "../assets/Images/cursor.png";
+import ImageClient from "../assets/Images/button.png";
 import { useNavigate } from "react-router-dom";
 
 export default function Home() {
